@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GAME.dir/src/main.cpp.o -o GAME   -L/home/zombiewafle/Documentos/universidad/game/pong/Pong/src  -Wl,-rpath,/home/zombiewafle/Documentos/universidad/game/pong/Pong/src -lSDL2main -lSDL2 
